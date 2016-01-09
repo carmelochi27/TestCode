@@ -4,4 +4,5 @@
 int add(int *a, int *b);
 int main()
 {
+   system("pause");
 }
